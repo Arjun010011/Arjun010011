@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Arjun 👋
 
-<!--
-**Arjun010011/Arjun010011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend-focused developer** with full-stack experience using Next.js.
 
-Here are some ideas to get you started:
+### What I do
+- 🧠 Backend: Java · Spring Boot · REST APIs  
+- 🗄️ Databases: PostgreSQL · MongoDB · Supabase  
+- ⚙️ Frontend / Full-stack: Next.js · React · Tailwind · Zustand  
+- 🧩 Core: DSA · SQL · System Design fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building interview-ready backend projects  
+- AI-powered exam & performance analytics platform  
+- Monkeytype-like typing app (Next.js + data focused)
+
+📫 **Find me everywhere**
+- GitHub / X / Instagram: **@Arjun010011**
